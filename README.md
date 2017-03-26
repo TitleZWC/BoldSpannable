@@ -4,3 +4,5 @@
 
 ### 效果图
 ![effectPicture](https://github.com/TitleZWC/BoldSpannable/blob/master/screenshot/screenshot.gif)
+
+![listPicture](https://github.com/TitleZWC/BoldSpannable/blob/master/screenshot/listScreen.gif)
