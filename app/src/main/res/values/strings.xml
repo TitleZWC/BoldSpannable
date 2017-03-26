@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BoldSpannable</string>
+    <string name="jump_activity">跳转到列表页面</string>
 </resources>
